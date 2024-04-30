@@ -1,4 +1,4 @@
-package edu.dio.collections.cart;
+package edu.dio.collections.list.cart;
 
 import java.util.ArrayList;
 import java.util.List;

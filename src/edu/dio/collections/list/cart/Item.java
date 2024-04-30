@@ -1,4 +1,4 @@
-package edu.dio.collections.cart;
+package edu.dio.collections.list.cart;
 
 public class Item {
     private String name;
