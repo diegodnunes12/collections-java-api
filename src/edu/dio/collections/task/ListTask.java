@@ -1,4 +1,4 @@
-package edu.dio.collections;
+package edu.dio.collections.task;
 
 import java.util.ArrayList;
 import java.util.List;

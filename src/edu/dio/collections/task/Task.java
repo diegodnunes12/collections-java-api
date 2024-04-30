@@ -1,4 +1,4 @@
-package edu.dio.collections;
+package edu.dio.collections.task;
 
 public class Task {
     private String description;
