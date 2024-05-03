@@ -1,4 +1,4 @@
-package edu.dio.collections.products;
+package edu.dio.collections.set.products;
 
 import java.util.HashSet;
 import java.util.Set;
